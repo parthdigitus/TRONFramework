@@ -4,8 +4,6 @@ target 'TRONFramework_Example' do
   pod 'TRONFramework', :path => '../'
 
   target 'TRONFramework_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+    pod 'TRONFramework', :path => '../'
   end
 end

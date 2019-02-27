@@ -1,0 +1,16 @@
+PODS:
+  - TRONFramework (0.1.0)
+
+DEPENDENCIES:
+  - TRONFramework (from `../`)
+
+EXTERNAL SOURCES:
+  TRONFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TRONFramework: 672282184f05763dda7b0233e7c7dde52ddfebc4
+
+PODFILE CHECKSUM: b6a89123b3f7668cc8b5de51fc8bfd8346882af1
+
+COCOAPODS: 1.6.1

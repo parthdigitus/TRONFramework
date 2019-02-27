@@ -1,0 +1,6 @@
+framework module TRONFramework {
+  umbrella header "TRONFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import TRONFramework
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let test = TRONFrameworkTest()
+        test.printTestLogs("Test")
+        
     }
 
     override func didReceiveMemoryWarning() {

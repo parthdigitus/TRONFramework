@@ -1,0 +1,6 @@
+framework module Pods_TRONFramework_Example_TRONFramework_Tests {
+  umbrella header "Pods-TRONFramework_Example-TRONFramework_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
