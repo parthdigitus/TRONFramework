@@ -14,4 +14,7 @@ public class TRONFrameworkTest: NSObject {
     public func printAgainLogs(){
         print("Hellow world")
     }
+    public func printAgainLogssss(){
+        print("Hellow world")
+    }
 }

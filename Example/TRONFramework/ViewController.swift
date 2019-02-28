@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         let test = TRONFrameworkTest()
         test.printTestLogs("Test")
         test.printAgainLogs()
+        test.printAgainLogssss()
         
     }
 
